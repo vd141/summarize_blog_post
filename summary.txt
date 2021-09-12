@@ -1,0 +1,195 @@
+
+_______________
+Sign in
+
+_______________
+
+_______________
+Klima DAO
+
+_______________
+
+_______________
+Jul 8·6 min read
+
+_______________
+
+_______________
+KLIMA is a unique DeFi product that connects with a real-world asset which is experiencing unprecedented demand pressure across both voluntary markets and compliance markets.
+Even in the face of the COVID-fueled market crash of 2020, carbon markets pretty much walked away unscathed, have since seen strong demand growth, and are now entering a period of price discovery.
+_______________
+
+_______________
+As of May 2021 there were 64 carbon pricing instruments in operation globally, covering an estimated 20% of global greenhouse gas emissions and generating upwards of $53 billion in revenue.
+According to the World Bank’s annual “State and Trends of Carbon Pricing” report released in 2021, these advances represent a 17% increase in revenue compared to the previous year.
+_______________
+
+_______________
+For analysts covering carbon markets over the past decade, this growth is seen as just the beginning of what is to come over the coming years.
+Carbon credits, as an instrument for putting a price on carbon, could be a $50 billion market by 2030.
+_______________
+
+_______________
+Beyond being a largely uncorrelated asset within the traditional crypto market, carbon’s price is poised for substantial growth and this can be leveraged to maximise positive impact for the planet, and create value for those that participate within the system.
+
+_______________
+
+_______________
+Let’s explore why this upside potential is so significant.
+
+_______________
+
+_______________
+(Source: McKinsey)
+
+_______________
+
+_______________
+It’s no secret that society is at the cusp of the greatest economic transition since the industrial revolution.
+Our collective efforts to decarbonize the global economy are a necessary task if we are to continue the enterprise of human civilization — key questions relate to the specific ways this transition will affect certain industries and, ultimately, our lives.
+_______________
+
+_______________
+Certainly, changes in how we manage waste materials and shuttle ourselves around the world are critical, but the critical lever of change is that which enables technical innovation and adoption.
+In short, these are the solutions designed to force the market to reckon with the negative externalities of its industrial metabolism.
+_______________
+
+_______________
+Carbon offsets — the commodity that Klima DAO will leverage — serve two functions in this regard: they help internalise carbon emissions while concurrently helping fund projects which remove carbon from the atmosphere.
+The commitments of the Paris Climate Accord, developed in line with the best available science, set our goal at ensuring there is no more than 2 degrees Celsius global warming above pre-industrial levels to avoid unmitigated climate catastrophe, with 1.5 degrees of warming preferred to avoid the worst of climate change.
+_______________
+
+_______________
+(Source: Climate Action Tracker)
+
+_______________
+
+_______________
+The volume of negative emissions needed to reduce emissions in line with the more ambitious 1.5-degree warming goal set by the Paris Climate Accord is estimated to be 1.5 to 2 gigatons of carbon dioxide (GtCO2) by 2030.
+In 2019, the voluntary carbon market is valued at less than $300 million…
+_______________
+
+_______________
+Even with the most conservative estimates, efforts to decarbonize the global economy are set to see a considerable rise in the demand for carbon offsets.
+Let’s take a closer look at three major commitments fueling the rapidly growing demand side of this market.
+_______________
+
+_______________
+Net Zero Asset Managers Initiative: https://www.netzeroassetmanagers.org/#
+
+_______________
+
+_______________
+128 signatories representing $43 trillion in assets under management.
+The Net Zero Asset Managers initiative is an international group of asset managers committed to supporting the goal of net zero greenhouse gas emissions by 2050 or sooner, in line with global efforts to limit warming to 1.5 degrees Celsius; and to supporting investing aligned with net zero emissions by 2050 or sooner.
+_______________
+
+_______________
+Race to Zero Campaign: https://unfccc.int/climate-action/race-to-zero-campaign
+
+_______________
+
+_______________
+It mobilizes a coalition of leading net zero initiatives, representing 733 cities, 31 regions, 3,067 businesses, 173 of the biggest investors, and 622 Higher Education Institutions.
+Collectively these actors now cover nearly 25% global CO2 emissions and over 50% GDP.
+_______________
+
+_______________
+The Climate Pledge: https://www.theclimatepledge.com/us/en/Signatories
+
+_______________
+
+_______________
+103 signatories comprised of some of the world’s largest corporations dedicated to reducing their emissions and supporting carbon removal and compensation technologies.
+
+_______________
+
+_______________
+Importantly, while the principal aim of Net Zero is to lower produced emissions as close to zero as possible by 2050, participants are encouraged to compensate for emissions along the way and utilize carbon removal offsets to remove any additional carbon which cannot be abated otherwise.
+
+_______________
+
+_______________
+Of course, it’s not just that demand is increasing in this market.
+There are considerable supply constraints emerging that will drive the price of carbon higher.
+_______________
+
+_______________
+Undoubtedly, the increase in carbon price will make it more attractive for investors to develop carbon mitigation and removal projects around the world.
+They may also include technical carbon removals utilizing carbon capture and storage, though these technologies are nascent and require much more capital to mature and scale
+_______________
+
+_______________
+However, a variety of factors may make it challenging to mobilize the entire potential offsetting supply and hinder it being brought to market.
+[2]
+_______________
+
+_______________
+Additionally, many projects could face difficulties in acquiring the financing necessary to start their development, given the often long lag times between initial investments and the issuance of offsets for the market.
+Most recently, McKinsey estimated the actual supply of carbon credits reaching market by 2030 to be just 1 to 5 GtCO2 per year — nearly 2 to 10 times less than what will be demanded.
+_______________
+
+_______________
+Klima DAO’s purpose is to accelerate the price appreciation of carbon assets in order to force quicker adaption to the realities of climate change and drive additional finance toward low-carbon technologies.
+The costlier the negative externality of their damage becomes, the more economic the decision to reduce emissions and invest in green alternatives.
+_______________
+
+_______________
+As described on our website, we are building a community that’s resolute on solving climate change by creating a black hole for carbon to accelerate value pressure past the event horizon of traditional markets while creating synergies between DeFi and the carbon markets.
+
+_______________
+
+_______________
+Join us: https://discord.gg/t3eE3HTVes
+
+_______________
+
+_______________
+Visit: https://klimadao.finance/
+
+_______________
+
+_______________
+1) McKinsey: Scaling Voluntary Carbon Markets https://www.mckinsey.com/business-functions/sustainability/our-insights/a-blueprint-for-scaling-voluntary-carbon-markets-to-meet-the-climate-challenge
+
+_______________
+
+_______________
+2) RaboResearch: Can voluntary carbon markets change the game for climate change?
+https://economics.rabobank.com/publications/2021/march/can-voluntary-carbon-markets-change-the-game-for-climate-change/
+_______________
+
+_______________
+3) The World Bank https://www.worldbank.org/en/news/press-release/2021/05/25/carbon-prices-now-apply-to-over-a-fifth-of-global-greenhouse-gases
+
+_______________
+
+_______________
+4) Forests and Decarbonization — Roles of Natural and Planted Forests.
+Change, 08 May 2020 | https://doi.org/10.3389/ffgc.2020.00058
+_______________
+
+_______________
+Klima DAO
+
+_______________
+
+_______________
+335
+
+_______________
+
+_______________
+335
+
+_______________
+
+_______________
+335
+
+_______________
+
+_______________
+Klima DAO
+
+_______________
